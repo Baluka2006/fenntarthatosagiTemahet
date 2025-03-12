@@ -14,11 +14,6 @@ Erőforrások
 
 Világunk jelenleg jóval több erőforrást használ, mint amennyit a fenntarthatóság (természetes újratermelődés) megengedne. Ebből következően a jelenlegi gazdasági rendszer csak jelentős többlet-erőforrásokkal (mesterséges eszközökkel) képes működni. Ha ezek az erőforrások kimerülnek, a gazdaság komoly veszélybe kerülhet. Mivel az erőforrás-felhasználás 87%-át fosszilis energiahordozók képviselik, ezek fogyása rejti a legnagyobb kockázatot. A legújabb bizonyítékok alapján a könnyen kitermelhető fosszilis energiahordozókat már kitermeltük. Ezek közül is a legnyilvánvalóbb a kőolaj fogyása. E kérdésben nem is annyira az adott erőforrás, pl. kőolajmező nagysága a mérvadó, hanem sokkal inkább az, hogy meddig érdemes kitermelni az adott mezőt, ezt méri az EROEI mérőszám, tehát pl. azt, hogy egy hordó kőolaj felhasználásával hány hordó kőolaj nyerhető ki. Az adott erőforrások csökkenésére sokak szerint a technológiai fejlődés jelenthet megoldást, ám a növekedés fenntartása zárt rendszerben, mint amilyen a Föld is mindenképpen problémákat okozhat. Ugyanakkor a fosszilis energiaforrások jelentik a legnagyobb környezeti kárt, a CO2 fejlesztés miatt.
 
-Önfenntartó rendszerek
-Élővilág
-Piac
-Társadalom
-
 A fenntartható fejlődést szolgáló főbb termékek, fogalmak
 megújuló energiaforrások
 bioetanol
