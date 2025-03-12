@@ -17,6 +17,21 @@ header {
     text-shadow: 5px 5px black;
 }
 
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #45a049;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+}
+
 #calculator {
     margin: 20px 0;
     padding: 20px;
