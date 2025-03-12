@@ -16,9 +16,15 @@
     <nav>
         <p><a href="#fogalom">Fogalma</a></p>
         <p><a href="#elvialap">Elvi alapja</a></p>
+<<<<<<< HEAD
         <p><a href="#eroforrasok">Erőforrások</a></p>
         <p><a href="#termekek">Főbb termékek, fogalmak</a></p>
         <p><a href="#kalkulator">Kalkulátor</a></p>
+=======
+        <p><a href="#eroforrasok"></a>Erőforrások</p>
+        <p><a href="#termekek"></a>Főbb termékek, fogalmak</p>
+        <p><a href="#calculator"></a>Kalkulátor</p>
+>>>>>>> 8a0dc5b7990723877a7e4aecc8cb30064b091818
         <p><a href="https://hu.wikipedia.org/wiki/Fenntarthat%C3%B3_fejl%C5%91d%C3%A9s" target="_blank">Forrás</a></p>
     </nav>
 
@@ -45,6 +51,8 @@
                 <img src="img/img4.png" alt="Fenntarthatóság">
             </article>
         </section>
+
+        
         
         <section id="elvialap">
             <article>
@@ -60,6 +68,20 @@
             <article>
                 <img src="img/img6.png" alt="Fenntarthatóság">
             </article>
+        </section>
+
+        <section id="calculator">
+            <h2>Fenntarthatósági Kalkulátor</h2>
+            <form id="sustainability-form">
+                <label for="energy">Energiafogyasztás (kWh):</label>
+                <input type="number" id="energy" name="energy" required>
+                
+                <label for="waste">Hulladéktermelés (kg):</label>
+                <input type="number" id="waste" name="waste" required>
+                
+                <button type="button" onclick="calculateSustainability()">Számítás</button>
+            </form>
+            <p id="result"></p>
         </section>
     
         <section id="eroforrasok">
@@ -102,7 +124,19 @@
         </section>
         
         <section id="kalkulator">
-
+            <article>
+                <h2>Kalkulátor</h2>
+                <form>
+                    <label for="energy">Energia (kWh):</label>
+                    <input type="number" id="energy">
+                    <br>
+                    <label for="waste">Hulladék (kg):</label>
+                    <input type="number" id="waste">
+                    <br>
+                    <button type="button" onclick="calculateSustainability()">Számol</button>
+                </form>
+                <p id="result"></p>
+            </article>
         </section>
     </main>
     
