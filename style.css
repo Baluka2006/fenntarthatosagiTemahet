@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: 'Times New Roman', Times, serif;
     background-image: url('img/ht3.jpg');
@@ -15,4 +16,47 @@ header {
     font-size: 2rem;
     color: white;
     text-shadow: 5px 5px black;
+=======
+#calculator {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#calculator h2 {
+    margin-bottom: 15px;
+}
+
+#calculator label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+#calculator input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+#calculator button {
+    padding: 10px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#calculator button:hover {
+    background-color: #45a049;
+}
+
+#result {
+    margin-top: 15px;
+    font-weight: bold;
+>>>>>>> 8a0dc5b7990723877a7e4aecc8cb30064b091818
 }
