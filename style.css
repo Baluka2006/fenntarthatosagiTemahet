@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('img/ht3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    background-image: url('img/ht1.jpg');
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    padding-top: 5px;
+    font-weight: bolder;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 5px 5px black;
+}
