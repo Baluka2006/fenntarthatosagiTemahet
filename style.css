@@ -17,6 +17,17 @@ header {
     text-shadow: 5px 5px black;
 }
 
+main {
+    color: white;
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+footer {
+    
+}
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -28,11 +39,21 @@ section {
     justify-content: space-around;
 }
 
+article {
+    width: 50%;
+}
+
 a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+    margin: 10px 0px 10px 10px;
+}
+
 #calculator {
+    color: black;
     margin: 20px 0;
     padding: 20px;
     border: 1px solid #ccc;
