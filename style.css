@@ -18,7 +18,6 @@ header {
 }
 
 main {
-    color: white;
     width: 70%;
     display: block;
     margin: auto;
@@ -144,6 +143,9 @@ img {
     }
     header {
         font-size: 1.5rem;
+    }
+    main {
+        color: white;
     }
 }
 
