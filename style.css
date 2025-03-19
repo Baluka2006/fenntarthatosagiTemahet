@@ -18,14 +18,18 @@ header {
 }
 
 main {
-    color: white;
+    color: rgb(10, 41, 3);
     width: 70%;
     display: block;
     margin: auto;
 }
 
 footer {
-    
+    color: white;
+    text-align: center;
+    background-color: #378b3a;
+    padding-top: 4vh;
+    height: 12vh;
 }
 
 nav {
@@ -43,13 +47,28 @@ article {
     width: 50%;
 }
 
+h2 {
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
 a {
     text-decoration: none;
+    color: white;
 }
 
 img {
     width: 100%;
     margin: 10px 0px 10px 10px;
+}
+
+#termekek, #eroforrasok {
+    color: white;
+}
+
+#calculator h2 {
+    color: black;
+    text-shadow: none;
 }
 
 #calculator {
