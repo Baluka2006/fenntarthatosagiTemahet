@@ -18,7 +18,7 @@ header {
 }
 
 main {
-    color: rgb(10, 41, 3);
+    color: white;
     width: 70%;
     display: block;
     margin: auto;
@@ -36,6 +36,10 @@ nav {
     display: flex;
     justify-content: space-around;
     background-color: #45a049;
+}
+
+nav p {
+    margin: 5px 10px;
 }
 
 section {
@@ -113,4 +117,30 @@ img {
 #result {
     margin-top: 15px;
     font-weight: bold;
+}
+
+@media screen and (max-width: 795px) {
+    section {
+        flex-wrap: wrap;
+        flex-flow: column; 
+    }
+    article {
+        
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    nav {
+        flex-wrap: wrap;
+    }
+    header {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    header {
+        font-size: 1rem;
+    }
 }
